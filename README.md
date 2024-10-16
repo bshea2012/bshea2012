@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brogen Shea</h1>
 <h3 align="center">An aspiring frontend developer.</h3>
 
-- 🌱 I’m currently learning **automated test with Jest and cloud deployment on Google Cloud!**
+- 🌱 I’m currently learning **automated testing with Jest and cloud deployment on Google Cloud!**
 
 <h3 align="left">Background:</h3>
 <p align="left">
